@@ -1,0 +1,23 @@
+{
+  "name": "sequence-connector-wagmi",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Alexey Landyrev",
+  "repository": {
+    "url": "https://github.com/Transfer-Safe/Sequence-Wagmi-Connector",
+    "type": "git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "0xsequence": "^0.40.5",
+    "wagmi": "^0.6.4"
+  },
+  "keywords": ["wagmi", "sequence"]
+}
